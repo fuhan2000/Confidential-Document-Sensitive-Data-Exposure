@@ -7,3 +7,9 @@
 <img src="https://i.imgur.com/rIBu1DU.png" height="400" />
 
 *Ref 1: About Us*
+
+- And then click on “Check out our boring terms of use if you are interested in such lame stuff”
+
+<img src="https://i.imgur.com/kEsdYkN.png" width="400" />
+
+*Ref 2: Check out our boring terms of use if you are interested in such lame stuff*
