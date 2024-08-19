@@ -38,8 +38,8 @@
 
 *Ref 6: Quarantine*
 
-- But if you GET /ftp/acquisitions.md, you have a case of sensitive data exposure
+- But if you GET /ftp/acquisitions.md, you have a case of sensitive data exposure (a no-no)
 
 <img src="https://i.imgur.com/fyjp4UM.png" width="400" />
 
-*Ref 6: acquisitions.md*
+*Ref 7: acquisitions.md*
