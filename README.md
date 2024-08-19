@@ -19,3 +19,27 @@
 <img src="https://i.imgur.com/Jwuc1kC.png" width="400" />
 
 *Ref 3: Legal Information*
+
+- In Repeater, GET /ftp
+
+<img src="https://i.imgur.com/XDYgcGN.png" width="400" />
+
+*Ref 4: GET /ftp*
+
+- Beside legal.md, you will notice other files like Quarantine and announcement.
+
+<img src="https://i.imgur.com/rVkOBDu.png" width="400" />
+
+*Ref 5: legal.md*
+
+- Try GET /ftp/Quarantine. Nothing interesting/Confidential
+
+<img src="https://i.imgur.com/xHRIeBA.png" width="400" />
+
+*Ref 6: Quarantine*
+
+- But if you GET /ftp/acquisitions.md, you have a case of sensitive data exposure
+
+<img src="https://i.imgur.com/fyjp4UM.png" width="400" />
+
+*Ref 6: acquisitions.md*
